@@ -1,0 +1,96 @@
+body {
+	padding: 5px;
+
+}
+
+
+li {
+	list-style-type: none;
+}
+
+.address {
+	text-align: center;
+	margin: auto;
+	font-size: 20px;
+	border: 2px ridge blue;
+	padding: 2px;
+	margin: 20px;
+	
+	margin-right: 1px;
+	margin-left: 1px;
+	width: 60%;
+	background-color: azure;
+
+}
+.image {
+	display: block;
+	margin-right: auto;
+	margin-left: auto;
+}
+.image2 {
+	display: block;
+	margin: left;
+	float: left;
+	border: 2px solid blue;
+}
+.clearfix {
+	overflow: auto;
+}
+section {
+	border: 4px solid darkred; /* my cardbord box */
+	padding: 10px; /* bubble wrap */
+	padding-top: 2px;
+	margin: 5px; /* space between elements */
+	background-color: antiquewhite;
+	color:black;
+
+
+}
+
+
+h1 {
+	font-family: arial;
+	color: darkviolet;
+	text-align: center;
+	font-size: 60px; /* something is blocking to change font-size */
+	border: 2px solid blue;
+	padding: 2px;
+	background-color: azure;
+	margin: auto;
+}
+
+#articlebox {
+	border: 2px ridge blue;
+	padding: 2px;
+	margin: 20px;
+	margin-right: 1px;
+	margin-left: 1px;
+	background-color: azure;
+
+
+}
+.text {
+	text-align: left;
+}
+.border {
+	border: 3px dotted red;
+	padding: 5px;
+	margin: 10px;
+	
+}
+.line {
+	font-family: cursive;
+}
+.color {
+	background-color: lawngreen;
+	text-align: center;
+
+}
+.pstyle {
+	font-family:cursive;
+	font-size: 30px;
+	margin: auto;
+}
+.center {
+	text-align: center;
+}
